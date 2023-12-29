@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Software Development Life Cycle (SDLC)
 **Definition of SDLC:**
 
@@ -13,7 +12,4 @@ The Software Development Life Cycle (SDLC) is a step-by-step guide that software
 - **Testing:** Highlight the importance of rigorous testing to ensure the software meets quality standards, is bug-free, and aligns with user requirements.
 - **Deployment:** Explain that once the software passes testing, it's ready for deployment in the production environment for end-users.
 - **Maintenance:** Conclude by mentioning that post-deployment, the software enters the maintenance phase, where updates, bug fixes, and ongoing support are provided to ensure its smooth operation.
-=======
-# SDLC
 
->>>>>>> d6e7d5ed5e350b28bd4dc7da946607105c04a90a
